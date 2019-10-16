@@ -8,5 +8,7 @@ Sebastián Zuzunaga
 
 ## Objetivos del repositorio
 
-*Clonar repositorio
-*Generar commits
+* Clonar repositorio
+* Configurar cuenta de usuario local
+* Generar commits
+* Sincronizar repositorio local con remoto
